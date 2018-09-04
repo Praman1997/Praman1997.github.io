@@ -1,2 +1,3 @@
 # praman.github.io
-Something About Me ;D
+
+General Information about me for resumes and other purposes
