@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cr4ckb0x
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://praman1997.github.io
+  * I am cr4ckb0x (https://keybase.io/cr4ckb0x) on keybase.
+  * I have a public key ASAnhQFccNvUKCT6na7x-tJhcGtxI4ng09n0MSsyqjoFfAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202785015c70dbd42824fa9daef1fad261706b712389e0d3d9f4312b32aa3a057c0a",
+      "host": "keybase.io",
+      "kid": "01202785015c70dbd42824fa9daef1fad261706b712389e0d3d9f4312b32aa3a057c0a",
+      "uid": "f28ce30c001d8942c0550f09f41bd319",
+      "username": "cr4ckb0x"
+    },
+    "merkle_root": {
+      "ctime": 1536235351,
+      "hash": "712455cb18f7257044573fd975989ee8a6ad801fef54104142382934cbeb9bddf991d3b6be2e4548d264ad26dca5dd6dad42e77e6b38861dd916a7952f91085a",
+      "hash_meta": "35b3e2f3d1c4713293d730fb8600a1d5d0f8cbe68206c4523a5107e65f274c0f",
+      "seqno": 3571972
+    },
+    "service": {
+      "entropy": "9JMhA1U29QFVM9K0JEaeUDeA",
+      "hostname": "praman1997.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1536235374,
+  "expire_in": 504576000,
+  "prev": "506d8f42ea3257cb48baa4f22f67ec9f3e6784bb4ac0a43e82cdba47f8931266",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ4UBXHDb1Cgk+p2u8frSYXBrcSOJ4NPZ9DErMqo6BXwKp3BheWxvYWTESpcCCsQgUG2PQuoyV8tIuqTyL2fsnz5nhLtKwKQ+gs26R/iTEmbEIA7YZ7a68XTx3LaNyGrSGET2KRIEgBo2auvoA37rtS3YAgHCo3NpZ8RAskFYdSUXMKHJLQOzlYDQDHVObi/CzorFuFU1SRAwACMQwpzos+CpW/I9ZotpJittwc/l2h7TrQMMDOQh051dC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJKedDKVNoZV9RICrwdXKs7Chwl5HTGzMg1Cqe4io/Pzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cr4ckb0x
+
+==================================================================
