@@ -703,6 +703,44 @@ I have a keen interest in learning new skills and languages. Programming and pen
 
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
-
+<script>
+    document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            alert('The source code will not be shown that easily...');
+            return false;
+        } else {
+            return true;
+        }
+    };
+    </script>
+    <script>
+        $(window).on('keydown',function(event)
+            {
+                if(event.keyCode==123)
+                    {
+                        alert('The source code will not be shown that easily...');
+                         return false;
+                    }
+                else if(event.ctrlKey && event.shiftKey && event.keyCode==73)
+                    {
+                        alert('The source code will not be shown that easily...')
+                        return false;  //Prevent from ctrl+shift+i
+                    }
+                else if(event.ctrlKey && event.keyCode==73)
+                    {
+                        alert('The source code will not be shown that easily...')
+                        return false;  //Prevent from ctrl+shift+i
+                    }
+            });
+            $(document).on("contextmenu",function(e)
+            {
+                alert('The source code will not be shown that easily...')
+                e.preventDefault();
+            });
+        </script>
 	</body>
 </html>
